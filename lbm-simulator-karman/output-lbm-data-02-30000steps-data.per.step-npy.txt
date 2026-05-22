@@ -1,0 +1,3 @@
+go to snellius:
+
+/gpfs/scratch1/shared/scur0076/output-lbm-data-02-30000steps-data.per.step-npy
