@@ -1,0 +1,20 @@
+{
+    "experiment_name": "no-conservation",
+    "epochs": 200,
+    "batch_size": 32,
+    "patience": 50,
+    "n_hidden_layers": 20,
+    "n_per_layer": 50,
+    "activation": "relu",
+    "optimizer": "adam",
+    "loss": "rmsre",
+    "use_symmetry": true,
+    "use_conservation": false,
+    "use_softmax": true,
+    "tg_nx": 32,
+    "tg_ny": 32,
+    "tg_niter": 1000,
+    "tg_dumpit": 100,
+    "tg_tau": 1.0,
+    "tg_u0": 0.01
+}
